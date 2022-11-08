@@ -6,7 +6,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import './App.css';
 
-import {Card, CardBody, Container, Button, Col, Row} from "reactstrap";
+import {Card, CardBody, Container, Button, Row} from "reactstrap";
 import { useState } from 'react';
 
 const itemsArr = new Array(9).fill("empty");
